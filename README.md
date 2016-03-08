@@ -19,7 +19,7 @@ The final model is an ensemble of:
 
 The model's performance is measured by RMSPE (Root Mean Squared Percentage Error). 
 
-RMSPE of the final model is 5.65%.
+RMSPE of the final ensemble model is 5.65%.
 
 Here's the link to my code and visulization:
 [ad-impression-forecast-web-view](http://htmlpreview.github.io/?https://raw.githubusercontent.com/bozhang0504/Ad-Impression-Forecast/master/Ad_Impression_Forecast.html)
