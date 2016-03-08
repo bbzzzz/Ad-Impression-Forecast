@@ -1,6 +1,8 @@
 # Ad-Impression-Forecast
 
-This is a project I did for online in-image ad vendor GumGum. GumGum aims to forecast ad impression numbers on GumGum’s affiliated websites in the next 30 days based on the past 365 days data.
+This is a project I did for online in-image ad vendor GumGum. 
+
+GumGum aims to forecast ad impression numbers on GumGum’s affiliated websites in the next 30 days based on the past 365 days data.
 
 Five simple models are created and tested:
 - Seasonal naive model
