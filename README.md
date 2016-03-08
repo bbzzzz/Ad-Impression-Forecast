@@ -9,7 +9,7 @@ Five predictive models are created and tested:
 - Linear regression model with trend and seasonal dummy variables (day of week)
 - SVM regression with trend and seasonal dummy variables (day of week)
 - STL + ETS/Arima model
-- Arima model
+- ARIMA model
 
 The final model is an ensemble of:
 - Linear model w/ quadratic trend 
